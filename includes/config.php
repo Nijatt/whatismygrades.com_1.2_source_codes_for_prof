@@ -7,9 +7,9 @@ date_default_timezone_set('Europe/London');
 
 //database credentials
 define('DBHOST','localhost');
-define('DBUSER','nicatos1');
-define('DBPASS','123456789');
-define('DBNAME','myfirstgame');
+define('DBUSER','username');
+define('DBPASS','password');
+define('DBNAME','databasename');
 
 //application address
 define('DIR','http://www.brutallbody.com/log6/');
